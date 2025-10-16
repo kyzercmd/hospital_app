@@ -7,19 +7,19 @@ The purpose of this small project was to go deep into OOP concepts like encapsul
 # Functionalities
 
 user
--register patient;
--search patient to see status; (search by auto incrementing id)
--search for blood donor; (search by blood group)
--get help;
+-register patient.
+-search patient to see status. (search by auto incrementing id)
+-search for blood donor. (search by blood group)
+-get help.
 
 staff
--view all patients;
--modify patient status; (update patient's status of treatment)
--register blood donor; (add blood donor with contact info)
--remove blood donor;
+-view all patients.
+-modify patient status. (update patient's status of treatment)
+-register blood donor. (add blood donor with contact info)
+-remove blood donor.
 
 admin
--View all active staff accounts;
--Create staff account;
--Delete staff account;
--Update hospital info;
+-View all active staff accounts.
+-Create staff account.
+-Delete staff account.
+-Update hospital info.
